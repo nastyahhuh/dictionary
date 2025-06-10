@@ -14,7 +14,7 @@ while True:
     
     if word in meme_dict.keys():
         print(meme_dict[word])
-        # Что делать, если слово нашлось?
+     
     else:
         print("Такого нет еще слово")
         # Что делать, если слово не нашлось?
